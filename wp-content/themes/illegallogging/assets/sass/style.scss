@@ -1,0 +1,21 @@
+/*!
+Theme Name: Stop Illegal Logging
+Theme URI: http://
+Description: Custom Theme for Stop Illegal Logging based on _s
+Author: James Kontargyris
+Author URI: http://jameskontargyris.co.uk
+Version: 0.0.1
+*/
+
+// Tools
+@import "compass";
+@import "compass/reset";
+@import "susy";
+@import "breakpoint";
+
+@import "variables";
+@import "mixins";
+@import "underscores";
+@import "base";
+@import "layout";
+@import "modules";
